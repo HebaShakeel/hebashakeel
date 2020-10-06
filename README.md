@@ -1,9 +1,5 @@
 [![Heba's github stats](https://github-readme-stats.vercel.app/api?username=HebaShakeel)](https://github.com/HebaShakeel/github-readme-stats)
 
-### Hi there 👋, Heba Shakeel here
-#### Full-Stack Developer
-![Full-Stack Developer]( https://pbs.twimg.com/profile_banners/838092911078162433/1591523182/600x200)
-
 I am Heba Shakeel, a full-stack developer and a Computer Science Engineering student
 Coffee keep me Coding...and I am obsessed with 'Reacting' to JS 
 

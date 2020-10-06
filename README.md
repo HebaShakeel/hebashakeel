@@ -1,7 +1,11 @@
 [![Heba's github stats](https://github-readme-stats.vercel.app/api?username=HebaShakeel)](https://github.com/HebaShakeel/github-readme-stats)
 
 I am Heba Shakeel, a full-stack developer and a Computer Science Engineering student
+
 Coffee keep me Coding...and I am obsessed with 'Reacting' to JS 
+
+##Skills and Experience:
+
 
 Skills:   REACT JS / JS / HTML / CSS / FIREBASE 
 

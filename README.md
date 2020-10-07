@@ -2,10 +2,7 @@
 
 I am Heba Shakeel, a full-stack developer and a Computer Science Engineering student
 
-Coffee keep me Coding...and I am obsessed with 'Reacting' to JS 
-
-##Skills and Experience:
-
+Coffee keeps me Coding...and I am obsessed with 'Reacting' to JS 
 
 Skills:   REACT JS / JS / HTML / CSS / FIREBASE 
 
